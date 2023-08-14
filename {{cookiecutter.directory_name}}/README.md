@@ -1,4 +1,4 @@
-# {{cookiecutter.project_name}}
+# {{cookiecutter.directory_name}}
 This is a great README file by {{cookiecutter.author}} ({{cookiecutter.email}})
 
 
