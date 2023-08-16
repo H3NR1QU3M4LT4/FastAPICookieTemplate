@@ -1,6 +1,2 @@
-# {{cookiecutter.directory_name}}
-This is a great README file by {{cookiecutter.author}} ({{cookiecutter.email}})
-
-
-The project is about:
-{{cookiecutter.description}}
+# Cookiecutter FastAPI Project
+This is a custom cookiecutter template for FastAPI projects.
