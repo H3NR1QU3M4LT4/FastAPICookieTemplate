@@ -3,6 +3,10 @@
 from fastapi import FastAPI
 import logging
 from {{cookiecutter.directory_name}}.routes.health_routes import router as health_router
+import sys
+
+sys.path.append("{{cookiecutter.directory_name}}")
+
 
 log_format = "%(levelname)s:     %(message)s"
 logging.basicConfig(level=logging.INFO, format=log_format)
